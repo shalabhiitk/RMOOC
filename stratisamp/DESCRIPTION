@@ -1,0 +1,10 @@
+Package: stratisamp
+Type: Package
+Title: Sample package containing the stratified method.
+Version: 1.0
+Date: 2020-04-07
+Author: shalabhiitk, oddlyspaced
+Maintainer: oddlyspaced <oddlyspaced1@gmail.com>
+Description: Packaged variant of the method stratified for easier access.
+License: none
+RoxygenNote: 7.1.0
