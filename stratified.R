@@ -7,6 +7,8 @@
 # Depends on package(s): sampling
 # You can use it by manually copy pasting the function code or by sourcing it as a whole by using the source(<file>) function.
 
+# Example: source("https://raw.githubusercontent.com/shalabhiitk/RMOOC/master/stratified.R")
+
 stratified = function(df, group, size) {
   #  USE: * Specify your data frame and grouping variable (as column 
   #         number) as the first two arguments.
